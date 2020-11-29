@@ -1,0 +1,6 @@
+apple, pear, peach, banana,
+pineapple, apricot, peach,
+orange, pear, pomegranate, banana,
+apricot, grape, pineapple, apple,
+watermelon, pomegranate, banana, peach,
+pear, pineapple, orange, pomegranate
